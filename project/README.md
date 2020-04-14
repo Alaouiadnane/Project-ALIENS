@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## npm install
-## cd project puis npm run execute
+## Visualizer les donnees en utilsant D3js
+-> Dossier Data viz last
+## Client react et serveur express
+npm install
+cd project puis npm run execute
 
 ## Available Scripts
 
