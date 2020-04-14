@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## npm install
-## npm run execute
+## cd project puis npm run execute
 
 ## Available Scripts
 
