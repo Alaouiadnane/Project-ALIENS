@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##BD Mongo sur ATLAS
+##Mongodb Atlas React Nodejs express 
 ## Visualizer les donnees en utilsant D3js
 -> Dossier Data viz last
+
 ## Client react et serveur express
 npm install
 cd project puis npm run execute
